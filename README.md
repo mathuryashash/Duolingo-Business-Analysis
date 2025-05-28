@@ -14,9 +14,9 @@ This repository contains a complete business analysis of **Duolingo**, conducted
 ## 📁 Files Included
 | File | Description |
 |------|-------------|
-| `Business Analysis report yashash.docx` | Full written analysis report |
-| `BUSINESS ANALYSIS REPORT YASHASH.xlsx` | SWOT matrix and supporting data |
-| `Duolingo Growth Strategy Presentation yashash.pptx` | Presentation deck summarizing key recommendations |
+| `Business Analysis report .docx` | Full written analysis report |
+| `BUSINESS ANALYSIS REPORT .xlsx` | SWOT matrix and supporting data |
+| `Duolingo Growth Strategy Presentation .pptx` | Presentation deck summarizing key recommendations |
 
 ---
 
@@ -34,5 +34,5 @@ This project was completed as part of my practical training at **[ClassVerse](ht
 ---
 
 ## 📬 Connect with Me
-If you found this helpful or have feedback, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME) or raise an issue here!
+If you found this helpful or have feedback, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/yashash-mathur-5125a1282/) or raise an issue here!
 
